@@ -4,7 +4,7 @@
 Olá! Este projeto consiste em uma home page na qual podemos vizualizar um pouco do que se trata HTML, CSS e Javascript
 ## 🔧funcionalidade 
 
-![image](<img width="1310" height="641" alt="image" src="https://github.com/user-attachments/assets/449c5e34-5c04-44ce-9cf8-57e65d2e801d" />
+![image](<img width="1325" height="666" alt="image" src="https://github.com/user-attachments/assets/548a39a7-963c-4fc6-bc1a-15ec8bbfe9a8" />
 )
 
 
