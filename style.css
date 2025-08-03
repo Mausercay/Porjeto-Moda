@@ -111,3 +111,36 @@ body{
     color: #555;
     text-align: center;
 }
+
+/* cards dos modelos */
+
+.modelo-section{
+    width: 100%;
+    height: auto;
+    margin: 0;
+    padding: 0;
+
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 0 32px ;
+
+}
+
+.nome{
+    font-family: var(--font1);
+    font-size: 1.6rem;
+    text-align: center;
+    text-transform: uppercase;
+    color: #555;
+
+}
+
+.nome-paragrafo{
+    font-family: var(--font1);
+    font-size: 1.3rem;
+    text-align: center;
+    text-transform: capitalize  ;
+    color: #555;
+}
